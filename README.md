@@ -15,10 +15,7 @@ Hi, I'm Rohit Sankhala, a PHP Web Developer , Drupal Programmer 🚀 from Rajast
 
 I had like to enjoy listening music 🎧 and travelling 🏝️ 
 
-**Talking about Personal Stuff:**
 
-- 🔭 I’m currently working as a Laravel Developer
-- 💬 Ask me about Web Development , Package development.
 - 📫 Reach me: <a href="mailto:rohitsankhla1999@gmail.com">rohitsankhla1999@gmail.com</a>
 
 &nbsp;
